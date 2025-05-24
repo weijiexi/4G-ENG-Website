@@ -3,7 +3,7 @@
 
 ## 1. Logo Design
 
-- **Concept**: Integrate elements representing both radio frequency (RF) and field-programmable gate arrays (FPGA). For instance, a stylized waveform intersecting with a grid or matrix pattern can symbolize the fusion of analog signals and digital logic.
+- **Concept**: Integrate elements representing both radio frequency (RF) and field-programmable gate arrays (FPGA). For instance, a stylized waveform intersecting with a grid or matrix pattern can symbolize the fusion of analog signals and digital logic and the digital and reconfigurable nature of FPGAs.
 
 - **Style**: Adopt a minimalist and abstract geometric design to reflect precision and adaptability. Ensure scalability so the logo remains recognizable across various sizes and mediums.
 

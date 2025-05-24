@@ -1,4 +1,5 @@
 # RFPGA Brand Identity
 - Identity Strategy
 - Visual Identity Strategy
-- Mood Borad
+- Mood Board
+- Designing Brand Identity Elements
